@@ -1,0 +1,6 @@
+git init
+links used 1
+links used 2
+git add -A
+git commit -m "initial commit"
+git push 
